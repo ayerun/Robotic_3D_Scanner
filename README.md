@@ -230,6 +230,6 @@ This was a stretch goal that we did not manage to accomplish. We wrote the `scan
 ## Group Members
 * Arun Kumar
 * Tianyu Li
-* Larisa Loke
+* Yen Chin Loke
 * Bowen Feng
 * Nicole Baptist
