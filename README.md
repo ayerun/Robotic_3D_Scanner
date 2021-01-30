@@ -2,8 +2,6 @@
 This is the final group project for ME495 Fall 2020 at Northwestern University  
 Authors: Arun Kumar, Bowen Feng, Nicole Baptist, Tianyu Li, Yen Chin Loke
 
-<br />
-
 # Overview
 
 ## Introduction
@@ -11,7 +9,9 @@ This project creates an automated system for reconstructing objects with point c
 
 The turtlebot3 is used as a turntable to allow the RealSense camera to record point cloud data for the object from all sides. The Sawyer robot arm is used to control the position and the viewing angle of the camera. 
 
-In the current version, our system will record point clouds from four sides and the top view of the object to recontruct its point cloud.  
+In the current version, our system will record point clouds from four sides and the top view of the object to recontruct its point cloud.
+
+<a href="https://ayerun.github.io/Portfolio/3Dscan.html" target="_blank">Click Here For An In-Depth Project Summary</a>
 
 ## File structure
 ```
